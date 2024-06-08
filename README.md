@@ -16,3 +16,9 @@ This repository contains various projects where I have utilized Power BI to tran
 - Description: Analyzing sales data to identify trends and opportunities across the country.
   
 - Key Features: Year-over-year sales comparison, top-performing products, and regional sales analysis.
+
+2. HR Data Analysis Dashboard
+   
+- Description: A comprehensive HR data analysis report that provides insights into employee demographics, salary trends, job roles, and leave balances.
+
+- Key Features: The report highlights gender pay equity, the correlation between education and salary, and includes targeted recommendations for enhancing employee development and organizational performance.
